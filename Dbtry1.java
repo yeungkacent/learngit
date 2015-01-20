@@ -2,6 +2,7 @@ package db;
 import java.sql.*;
 
 public class Dbtry1 {
+	//À²À²À²~
 	@SuppressWarnings("unused")
 	public static void main(String args[]){
 		String driverName="com.microsoft.sqlserver.jdbc.SQLServerDriver";
